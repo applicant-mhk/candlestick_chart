@@ -1,4 +1,4 @@
-Candlestick Chart
+﻿Candlestick Chart
 
 Introduction
 
@@ -151,13 +151,3 @@ Sample output for period of 30 seconds:
 		  "weighted_average": "251000",
 		  "volume": "1.39100000"
 	}]
-
-
-	================================================================
-	참고 자료
-
-	CSV to JSON
-	http://papaparse.com/docs#csv-to-json
-
-	Parsing a Local CSV File with JavaScript and Papa Parse
-	https://www.joyofdata.de/blog/parsing-local-csv-file-with-javascript-papa-parse/
