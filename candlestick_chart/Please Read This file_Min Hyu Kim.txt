@@ -1,0 +1,30 @@
+Dear sir or madam,
+
+This is applicant Min Hyuk Kim.
+
+Unfortunately, I did not complete the assignment that your company gave to me.
+
+But I would like to let you know about what I have done.
+
+
+I have done below things.
+
+---------------------------------------
+
+1. Found the CSV parser : Papa Parse, http://papaparse.com/
+2. Using the Papa Parser, opened a CSV file and parsed the CSV type texts to JSON array type data.
+3. Got the total number of bands created by being devided by period.
+4. Got the 'start' and 'end' values to be used in the each band devided by period (100s).
+5. Understood what I would have to do but did not complete the rest of the assignment due to the lack of my algorithmic coding experience.
+   But I now think that if I knew how to code the related problem efficently, I maybe may solve the entire problems.
+
+----------------------------------------
+
+I am very fast learner and hard-working person. If I am allowed to work as a programmer in your company, then I am quite sure that I will learn everything related to work very fast and contribute your to your company as fast as I can.
+
+I appreciate your kindness for delaying the due date to submit this assignment and thank you for your consideration.
+
+
+Best regard,
+
+Min Hyuk Kim
